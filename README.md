@@ -12,8 +12,8 @@
 
 # SQL Запросы
 
--Файл SQL.txt
--SQL-запросы.pdf
+ -Файл SQL.txt
+ -SQL-запросы.pdf
 
 
 
